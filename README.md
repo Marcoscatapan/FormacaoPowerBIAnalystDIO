@@ -1,32 +1,30 @@
 # 🎓FORMAÇÃO POWERBI ANALYST DIO
 
-Bem-vindo ao repositório da Formação Power BI Analyst!
+Bem-vindo ao repositório da Formação PowerBI Analyst!
 
-Este repositório é destinado aos projetos do curso Formação Power BI Analyst da Dio, armazenando todos os desafios de projetos propostos pelo curso.
+Este repositório é dedicado aos projetos do curso Formação PowerBI Analyst da DIO, onde você encontrará desafios e projetos para prática e aprendizado em PowerBI.
 
-📂 Como navegar neste repositório
+📂 Navegação no Repositório
 
 Cada projeto ou desafio está organizado em seu próprio diretório.
 
-Dentro de cada diretório, você encontrará os arquivos relacionados ao projeto, como relatórios do Power BI, conjuntos de dados, documentos de especificação e qualquer outra informação relevante.
-Sinta-se à vontade para explorar, estudar e colaborar com outras pessoas neste repositório.
-Se você é um aluno do curso, este repositório pode ser um recurso valioso para revisão e prática.
+Dentro de cada diretório, você encontrará os arquivos relacionados ao projeto, como arquivos .pbix, documentos de especificação e outras informações relevantes.
 
-🛠️ Projetos disponíveis
+Sinta-se à vontade para explorar, estudar e colaborar com outros alunos neste repositório. Se você é um estudante do curso, este repositório pode ser uma valiosa fonte de revisão e prática.
 
-Projeto 1: Criando um Dashboard de Vendas no Power BI
+🛠️ Projetos Disponíveis
 
-Projeto 2: Análise de Dados de Marketing com Power BI
+Projeto 1: Criando seu Primeiro Dashboard no PowerBI.
 
-Projeto 3: Dashboard Interativo de Finanças Pessoais com Power BI
+Projeto 2: Análise de Dados com o PowerBI.
 
 🤝 Contribuindo
 
-Se você gostaria de contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindos!
+Se você deseja contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindas!
 
 📧 Contato
 
-Se você tiver alguma dúvida sobre os projetos ou desafios, ou se precisar de ajuda com o Power BI, sinta-se à vontade para entrar em contato.
+Se você tiver alguma dúvida sobre os projetos ou desafios, ou se precisar de ajuda com PowerBI, sinta-se à vontade para entrar em contato.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-catapan-b766b1305/)
 
