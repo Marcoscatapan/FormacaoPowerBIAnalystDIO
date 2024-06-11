@@ -4,11 +4,11 @@ Bem-vindo ao projeto de criação de um relatório gerencial de vendas utilizand
 
 Este projeto consiste em utilizar a amostra de dados Financials disponibilizada pela Microsoft, carregar e transformar esses dados no Power BI Desktop criando visualizações e dashboards interativos que apresentem informações financeiras importantes refletindo assim, práticas recomendadas de design de relatórios e visualização de dados.
 
-Objetivo 🎯 
+🎯 Objetivo 
 
 O objetivo deste projeto é criar um relatório interativo e informativo no Power BI Desktop, utilizando a amostra de dados Financials da Microsoft. Este relatório visa fornecer insights financeiros valiosos para apoiar a tomada de decisões empresariais.
 
-Como Executar 📝
+📝 Como Executar
 
 1. Preparação do Ambiente
 
