@@ -14,9 +14,9 @@ Sinta-se à vontade para explorar, estudar e colaborar com outros alunos neste r
 
 🛠️ Projetos Disponíveis
 
-Projeto 1: Criando seu Primeiro Dashboard no PowerBI.
+Projeto 1: 
 
-Projeto 2: Análise de Dados com o PowerBI.
+Projeto 2: 
 
 🤝 Contribuindo
 
