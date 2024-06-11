@@ -1,4 +1,4 @@
-# 🎓FORMAÇÃO POWERBI ANALYST DIO
+# 🌐 Projeto Criando um Dashboard corporativo com integração com MySQL e Azure
 
 Bem-vindo ao repositório da Formação PowerBI Analyst!
 
