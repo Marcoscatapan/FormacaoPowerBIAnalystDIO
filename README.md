@@ -6,11 +6,11 @@ Posteriormente, conectamos o Power BI ao MySQL, importamos os dados, refinamos e
 
 Através da fusão de consultas e otimização da estrutura de dados, associamos colaboradores aos seus gerentes e consolidamos informações em colunas unificadas, resultando em uma tabela integrada de departamentos por local.
 
-Objetivo 🎯
+🎯 Objetivo 
 
 Nosso objetivo é transformar dados brutos em insights valiosos por meio de um processo sistemático de coleta, obtenção e transformação de dados, utilizando Power BI conectado a uma instância MySQL na Azure.
 
-Como Executar 📝
+📝 Como Executar 
 
 1. Contextualização na Azure
 
@@ -64,7 +64,7 @@ Como Executar 📝
 
 🌟 Análise Abrangente: A mesclagem permite uma análise mais abrangente, conectando dados de diferentes fontes e preparando o conjunto de dados para análises mais avançadas.
 
-Como Contribuir 🤝
+🤝 Como Contribuir 
 
 Se deseja contribuir para este projeto, siga estas etapas:
 
