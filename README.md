@@ -14,7 +14,7 @@ Sinta-se à vontade para explorar, estudar e colaborar com outros alunos neste r
 
 🛠️ Projetos Disponíveis
 
-Projeto 1: 
+Projeto 3: Criando um Dashboard corporativo com integração com MySQL e Azure. 
 
 Projeto 2: 
 
