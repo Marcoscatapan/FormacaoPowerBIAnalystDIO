@@ -14,9 +14,9 @@ Sinta-se à vontade para explorar, estudar e colaborar com outros alunos neste r
 
 🛠️ Projetos Disponíveis
 
-Projeto 3: Criando um Dashboard corporativo com integração com MySQL e Azure. 
+Projeto 2: Criando Um Relatório Gerencial de Vendas com Power BI
 
-Projeto 2: 
+Projeto 3: Criando um Dashboard corporativo com integração com MySQL e Azure. 
 
 🤝 Contribuindo
 
