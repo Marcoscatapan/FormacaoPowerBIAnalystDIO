@@ -1,4 +1,4 @@
-# 📊 Criando Um Relatório Gerencial de Vendas com Power BI
+# 2️⃣ Criando Um Relatório Gerencial de Vendas com Power BI
 
 Bem-vindo ao projeto de criação de um relatório gerencial de vendas utilizando o Power BI Desktop com base na amostra de dados Financials disponibilizada pela Microsoft encontrada também nesse diretório com o nome Retail Analysis Sample PBIX. 
 
@@ -74,6 +74,6 @@ Como Executar
 - Publicar o relatório no Power BI Service (opcional).
 
 
-📋 README do Projeto
+📋 Síntese do Projeto
 
 Este projeto visa criar um relatório financeiro detalhado e interativo utilizando a amostra de dados Financials da Microsoft no Power BI Desktop. O projeto inclui a importação e transformação dos dados, criação de visualizações e dashboards, e a aplicação de boas práticas de design para garantir relatórios claros e informativos.
