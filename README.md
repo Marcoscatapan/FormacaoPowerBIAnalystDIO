@@ -1,4 +1,4 @@
-# 🌐 Criando um Dashboard corporativo com integração com MySQL e Azure
+# 3️⃣ Criando um Dashboard corporativo com integração com MySQL e Azure
 
 Este projeto consiste na configuração de uma instância MySQL na Azure, seguida pela estruturação de um banco de dados inicial usando um arquivo do GitHub. 
 
@@ -78,6 +78,6 @@ Se deseja contribuir para este projeto, siga estas etapas:
 
 5. Abra um Pull Request.
 
-📋 README do Projeto
+📋 Síntese do Projeto
 
 Este projeto foi criado para demonstrar a coleta, obtenção e transformação de dados usando Power BI e MySQL na Azure. Seguindo as etapas descritas, você será capaz de transformar dados brutos em insights valiosos para apoiar decisões informadas.
